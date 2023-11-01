@@ -1,0 +1,5 @@
+python-docx
+pyTelegramBotAPI
+python-dotenv
+SQLAlchemy
+SQLAlchemy-file
